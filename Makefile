@@ -1,4 +1,4 @@
-CFLAGS=-Wall -D LINUXPC
+CFLAGS=-Wall -fcommon -D LINUXPC
 
 #Some Linux distros require added libraries
 #LIBS = -lrt -lpthread 
